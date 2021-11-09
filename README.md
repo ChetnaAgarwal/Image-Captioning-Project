@@ -1,6 +1,17 @@
 # Image Captioning Project
 
-Results obtained on test images :
+A deep Learning models that takes as input an image and describes its contents. 
+
+Concepts used : CNNs, RNNs, Transfer Learning, Image and Text Processing, MLP, Backpropagation, Gradient Descent, and many more... 
+
+Language used : Python
+
+Libraries used : Tensorflow, Keras, Numpy, Pandas, re, etc.
+
+For transfer Learning, used glove embeddings and resnet50 model.
+
+
+## Results obtained on test images :
 
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture1.png)
 
