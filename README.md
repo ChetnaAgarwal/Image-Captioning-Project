@@ -2,7 +2,7 @@
 
 A deep Learning models that takes as input an image and describes its contents. 
 
-Concepts used : CNNs, RNNs, Transfer Learning, Image and Text Processing, MLP, Backpropagation, Gradient Descent, and many more... 
+Concepts used : Convolutional Neural Networks, Recurrent Neural Networks, Transfer Learning, Word embeddings, Image and Text Processing, Multi Layered Perceptrons, Backpropagation, Gradient Descent, and many more... 
 
 Language used : Python
 
@@ -10,6 +10,23 @@ Libraries used : Tensorflow, Keras, Numpy, Pandas, re, etc.
 
 For transfer Learning, used glove embeddings and resnet50 model.
 
+## REAL WORLD APPLICATIONS OF IMAGE CAPTIONING
+
+1. In self driving cars, it can be used to properly caption scene around a car and give a boost to the self driving system.
+
+2. It can serve as an aid to the blind, wherein we can first convert the scene into text abd then text into voice. This can help guide them on roads and crowded places.
+
+3. In CCTV cameras, alongwith viewing the world, if we can also generate relevant captions, then we can raise alarms if some malicious activity takes place. Malicious cativity could be detected based on generated captions.
+
+4. It can help make Google Image Search as good as Google Search. Every image could be first converted to a caption and then search could be performed for other similar images.
+
+## DATA DESCRIPTION (Dataset used - Flickr8K)
+A total of around 8000  images are there in Flickr8k dataset, divided into training and testing sets. 
+Each image is given 5 different captions by 5 different humans, to account for the fact that an image can be described multiple ways. 
+
+## METHODOLOGY ADOPTED 
+
+1. We are going to generate one word at a time in oredr to generate complete sentences. 
 
 ## Results obtained on test images :
 
