@@ -3,6 +3,7 @@
 Results obtained on test images :
 
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture1.png)
+
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture10.png)
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture11.png)
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture12.png)
@@ -15,7 +16,7 @@ Results obtained on test images :
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture2.png)
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture3.png)
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture4.png)
-![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture5.png0
+![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture5.png)
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture6.png)
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture7.png)
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Captioning-Project/blob/master/image%20captioning%20results/picture8.png)
