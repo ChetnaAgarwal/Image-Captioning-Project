@@ -26,7 +26,17 @@ Each image is given 5 different captions by 5 different humans, to account for t
 
 ## METHODOLOGY ADOPTED 
 
-1. We are going to generate one word at a time in oredr to generate complete sentences. 
+## STEP 1 : 
+Words will be generated one at a time in order to generate complete sentences. To generate each word, we provide 2 types of inputs :
+1. Image
+2. Part of the sentence that has already been predicted so that the model can use the context and predict the next word.
+
+## STEP 2 : PREPROCESSING TEXT DATA
+1. We add 2 special tokens to each caption that represents start of sentence and end of sentence.
+2. Then we make multiple data samples for each caption and image pair.
+
+## STEP 3 : EXTRACTING TEXT FEATURES 
+1. We use word embeddings to represent our words. 
 
 ## Results obtained on test images :
 
